@@ -30,7 +30,7 @@ ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
 ShowWordCount = true
-ShowRssButtonInSectionTermList = true
+ShowRssButtonInSectionTermList = false
 UseHugoToc = true
 disableSpecial1stPost = false
 disableScrollToTop = false
@@ -48,7 +48,7 @@ tocopen = false
   safari_pinned_tab = "<link / abs url>"
 
   [params.label]
-  text = "Home"
+  text = "Blogui"
   icon = "/apple-touch-icon.png"
   iconHeight = 35
 
