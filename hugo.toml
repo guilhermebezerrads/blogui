@@ -17,7 +17,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Blogui"
-description = "Blogui description"
+description = "Blogui"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Guilherme Bezerra"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
@@ -47,7 +47,7 @@ tocopen = false
 
   [params.profileMode]
   enabled = false
-  title = "ExampleSite"
+  title = "Blogui - um blog por Guilherme Bezerra"
 
     [[params.profileMode.buttons]]
     name = "Posts"
